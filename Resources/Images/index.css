@@ -1,0 +1,167 @@
+.navigation li {
+    display: inline-flex; 
+    padding: 15px;
+    margin-left: 10px;
+    color: lightsalmon;
+    }
+
+ul {
+    background-color: rgb(2, 133, 133);
+}
+
+body {
+    background-color: rgb(202, 202, 202);
+}
+
+.topHeading {
+    text-align: center; 
+    font-size: 40px;
+}
+
+
+
+
+div.background {
+    background-color: rgba(0.5, 0.5, 0.5, 0.5);
+    height: 90px;
+    text-align: center;
+    color: coral;
+    background-size: cover;
+}
+
+
+
+.imgContainer {
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+
+
+.lineup {
+    display:inline-flex;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+    
+    
+    
+}
+
+.lineup2 {
+    display:inline-flex;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    
+    
+}
+
+
+.lineup3 {
+   display:inline-flex;
+   display: flex;
+   justify-content: space-between;
+   
+   
+}
+
+
+
+
+
+.margin1 {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 170px;
+}
+
+.margin2 {
+    display: flex;
+    
+}
+
+.margin3 {
+    display: flex;
+    margin-left: 170px;
+    margin-right: 50px;
+}
+
+
+
+
+
+.generator {
+    padding-left: 75px;
+}
+
+.teaCozy {
+    padding-right: 260px;
+    padding-left: 120px;
+}
+
+.fotomatic {
+    padding-right: 150px;
+    
+}
+
+
+.lineupForSkills1 {
+    margin-left: 70px;
+    color: rgb(43, 85, 201);
+}
+
+.lineupForSkills2 {
+    display:inline-flex;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+
+.lineupForContactMe1 {
+    margin-left: 70px;
+    color: rgb(43, 84, 196);
+}
+
+.lineupForContactMe2 {
+    display:inline-flex;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+
+.headingForAboutMe {
+    margin-top: 200px;
+    margin-left: 70px;
+    color: rgb(43, 84, 196);
+    
+}
+
+.headingForMyProjects {
+    margin-left: 70px;
+    color: rgb(43, 84, 196);
+}
+
+.text1 {
+    text-align: center;
+    padding: 120px;
+    font-size: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.theBreaker {
+    display: flex;
+    justify-content: center;
+    color: rgb(2, 133, 133);
+}
+
